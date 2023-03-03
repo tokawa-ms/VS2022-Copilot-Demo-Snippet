@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>Calc Date Span</Title>
+            <Author>Takashi Okawa</Author>
+            <Description>Copilot のデモ用に使うためのコメント(1)</Description>
+            <Shortcut>copi001</Shortcut>
+        </Header>
+        <Snippet>
+            <Code Language="CSharp">
+                <![CDATA[/*第一引数に与えられた DateTime 型の値と今日の日付の間の日数を計算して TimeSpan 型の値として返すメソッドです。*/]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+    <CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>Write File</Title>
+            <Author>Takashi Okawa</Author>
+            <Description>Copilot のデモ用に使うためのコメント(2)</Description>
+            <Shortcut>copi002</Shortcut>
+        </Header>
+        <Snippet>
+            <Code Language="CSharp">
+                <![CDATA[/*第一引数に与えられたファイル名のファイルに、"Hello World!" という文字列を書き込むメソッドです。*/]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>
